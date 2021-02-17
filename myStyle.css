@@ -1,0 +1,15 @@
+.container{
+ 
+}
+.header{
+    display: flex;
+    flex-wrap: wrap;
+}
+.head{
+    flex: 50%;
+    background-color: blue;
+}
+.search{
+    flex: 50%;
+    background-color: aquamarine;
+}
